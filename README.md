@@ -106,7 +106,7 @@ DNS-SPOOFING-CYBERSECURITY-MINI-PROJECT/
 **Sahil Makhija**
 **Soumya Gangrade**
 **Tavishi Khandelwal**
-B.Tech Computer Science Engineering  
+B.Tech Computer Engineering  
 
 ---
 
