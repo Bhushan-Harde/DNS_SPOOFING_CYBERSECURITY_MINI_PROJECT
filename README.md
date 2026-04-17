@@ -1,7 +1,3 @@
-Here’s a **clean, accurate, GitHub-ready README.md** for your project (no exaggeration, only true implementation details).
-
----
-
 # 📄 DNS Spoofing Simulation Project
 
 ## 🧠 Overview
