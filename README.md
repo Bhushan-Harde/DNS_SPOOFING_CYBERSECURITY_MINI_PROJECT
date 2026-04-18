@@ -188,4 +188,4 @@ It also includes detection and prevention techniques, making it a complete cyber
 1. Bhushan Harde
 2. Sahil Makhija
 3. Soumya Gangrade
-4. tavishi Khandelwal
+4. Tavishi Khandelwal
