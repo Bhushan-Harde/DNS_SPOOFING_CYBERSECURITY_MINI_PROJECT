@@ -180,3 +180,12 @@ else:
 
 This project successfully demonstrates the **concept and impact of DNS spoofing** using a safe and controlled approach.
 It also includes detection and prevention techniques, making it a complete cybersecurity mini-project.
+
+---
+
+## Authors :
+
+1. Bhushan Harde
+2. Sahil Makhija
+3. Soumya Gangrade
+4. tavishi Khandelwal
